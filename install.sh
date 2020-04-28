@@ -18,6 +18,7 @@ apt install \
     vim \
     git \
     wget \
+    konsole \
     -y
 
 # Install Slack
