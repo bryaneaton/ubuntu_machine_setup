@@ -19,6 +19,11 @@ apt install \
     git \
     wget \
     konsole \
+    steam \
+    tmux \
+    synaptic \
+    maven \
+    qemu-kvm virtinst bridge-utils cpu-checker \
     -y
 
 # Install Slack
